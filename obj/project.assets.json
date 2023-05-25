@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PROMACT\\Desktop\\.net\\HelloWorldApp\\HelloWorldApp.csproj",
+      "projectUniqueName": "C:\\Users\\PROMACT\\Desktop\\.net\\four-weeks-training\\week-1\\day-1\\HelloWorldAppNew\\HelloWorldApp.csproj",
       "projectName": "HelloWorldApp",
-      "projectPath": "C:\\Users\\PROMACT\\Desktop\\.net\\HelloWorldApp\\HelloWorldApp.csproj",
+      "projectPath": "C:\\Users\\PROMACT\\Desktop\\.net\\four-weeks-training\\week-1\\day-1\\HelloWorldAppNew\\HelloWorldApp.csproj",
       "packagesPath": "C:\\Users\\PROMACT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PROMACT\\Desktop\\.net\\HelloWorldApp\\obj\\",
+      "outputPath": "C:\\Users\\PROMACT\\Desktop\\.net\\four-weeks-training\\week-1\\day-1\\HelloWorldAppNew\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -5,12 +5,35 @@
 //    static void Main(string[] args)
 //    {
 //        Console.WriteLine("Hello, World!");
+
 //    }
 //}
 
-Console.WriteLine("What is your name?");
-var name = Console.ReadLine();
-var currentDate = DateTime.Now;
-Console.WriteLine($"{Environment.NewLine}Hello, {name}, on {currentDate:d} at {currentDate:t}!");
-Console.Write($"{Environment.NewLine}Press any key to exit...");
-Console.ReadKey(true);
+namespace ConsoleApp2
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello, World");
+            Console.WriteLine(Sum(10, 20));
+            Console.WriteLine(Sub(20, 10));
+            Console.WriteLine(Mul(10, 20));
+        }
+        public static int Sum(int a, int b)
+        {
+            return a + b;
+        }
+        public static int Sub(int a, int b)
+        {
+            return a - b;
+        }
+        public static int Mul(int a, int b)
+        {
+            return a * b;
+        }
+    }
+}
+
+
+
